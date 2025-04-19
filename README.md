@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Overview
 This repository contains components designed to manage data ingestion, transformation, and visualization in a robust data pipeline. Below is a breakdown of its structure and functionality:
 
@@ -19,3 +20,7 @@ Plans are underway to build additional applications using advanced tools and tec
 
 Configuration Files (hive.py and sql.py):
 These files define table creation and data definitions for both the database (MySQL) and the data warehouse (Hive or Snowflake). However, tasks like constraints and data verification are managed directly via the CLI of the respective environments.
+=======
+# cryptocurrency_project
+This project develops a decision intelligence solution for cryptocurrency investors, combining Big Data, AI, and BI to analyze real-time market data, predict trends, and provide actionable insights via interactive dashboards, helping investors make informed decisions and reduce risks.
+>>>>>>> f44bc7bac8583b4a6e1605e892751bba69ce9fd4
